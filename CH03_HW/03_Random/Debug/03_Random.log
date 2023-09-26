@@ -1,0 +1,3 @@
+﻿  03_Random_main.cpp
+G:\Dongguk\AdvancedProgramming\CH03_HW\03_Random\03_Random_main.cpp(43,24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  03_Random.vcxproj -> G:\Dongguk\AdvancedProgramming\CH03_HW\Debug\03_Random.exe
