@@ -1,0 +1,3 @@
+﻿  02_problem_sol_main.cpp
+G:\Dongguk\AdvancedProgramming\CH02_HW\02_problem_sol\02_problem_sol_main.cpp(27,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  02_problem_sol.vcxproj -> G:\Dongguk\AdvancedProgramming\CH02_HW\x64\Debug\02_problem_sol.exe
